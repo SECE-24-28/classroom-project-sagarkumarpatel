@@ -1,0 +1,9 @@
+.rect {
+  height: 100px;
+  text-align: center;
+  background-color: red;
+  font-size: 50px;
+  color: white;
+  width: 300px;
+  padding: 200px;
+}
